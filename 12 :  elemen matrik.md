@@ -1,4 +1,5 @@
-#Elemen Matriks
+<h1>Elemen Matriks</h1>
+
 Buatlah program untuk menampilkan nilai elemen matriks sesuai dengan baris dan kolom dari masukan.
 
 Berikut isi dari matriks tersebut, simpan sebagai array double word.
@@ -6,17 +7,16 @@ Berikut isi dari matriks tersebut, simpan sebagai array double word.
 7  11  10   6
 5   8   9   2
 1   3  12   4
-
-###Contoh Masukan
+Format Masukan
 ```
 1 2
 ```
-###Contoh Keluaran
+Contoh Keluaran
 ```
 9
 ```
 
-###code
+code
 ```
 global main 
 extern scanf
