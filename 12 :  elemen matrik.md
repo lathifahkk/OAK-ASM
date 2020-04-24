@@ -3,10 +3,12 @@
 Buatlah program untuk menampilkan nilai elemen matriks sesuai dengan baris dan kolom dari masukan.
 
 Berikut isi dari matriks tersebut, simpan sebagai array double word.
-
+```
 7  11  10   6
 5   8   9   2
 1   3  12   4
+```
+
 Format Masukan
 ```
 1 2
