@@ -18,7 +18,7 @@ Contoh Keluaran
 9
 ```
 
-code
+<h3>code</h3>
 ```
 global main 
 extern scanf
