@@ -19,6 +19,7 @@ Contoh Keluaran
 ```
 
 <h3>code</h3>
+
 ```
 global main 
 extern scanf
